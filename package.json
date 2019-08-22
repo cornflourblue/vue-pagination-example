@@ -1,0 +1,30 @@
+{
+    "name": "vue-pagination-example",
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cornflourblue/vue-pagination-example"
+    },
+    "scripts": {
+        "start": "webpack-dev-server --open"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "jw-vue-pagination": "^1.0.1",
+        "vue": "^2.6.10"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.5.5",
+        "@babel/preset-env": "^7.5.5",
+        "babel-loader": "^8.0.6",
+        "babel-preset-vue": "^2.0.2",
+        "css-loader": "^3.2.0",
+        "html-webpack-plugin": "^3.2.0",
+        "path": "^0.12.7",
+        "vue-loader": "^15.7.1",
+        "vue-template-compiler": "^2.6.10",
+        "webpack": "^4.39.1",
+        "webpack-cli": "^3.3.6",
+        "webpack-dev-server": "^3.8.0"
+    }
+}
