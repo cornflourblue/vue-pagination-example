@@ -10,7 +10,7 @@
     },
     "license": "MIT",
     "dependencies": {
-        "jw-vue-pagination": "^1.0.1",
+        "jw-vue-pagination": "^1.0.3",
         "vue": "^2.6.10"
     },
     "devDependencies": {
